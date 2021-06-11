@@ -10,7 +10,7 @@ jobs:
     - name: Test GitHub Action
       uses: vsoch/contributor-ci@main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CCI_GITHUB_TOKEN: ${{ secrets.CCI_GITHUB_TOKEN }}
       with: 
         extract: all
         config_file: contributor-ci.yaml
