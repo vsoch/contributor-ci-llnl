@@ -4,6 +4,16 @@
 
 This repository will contain [Contributor CI](https://github.com/vsoch/contributor-ci) results for LLNL, meaning data extracted from
 repos and members defined in  [contributor-ci.yaml](contributor-ci.yaml) that are generated and then pushed back to the repository.
+The extractions are done with a GitHub workflow, [.github/workflows/extract.yaml](.github/workflows/extract.yaml)
+but you can run the same command locally as follows:
+
+```bash
+$ cci --out-dir _cci extract all
+```
+
+You will need a `GITHUB_TOKEN` or personal access token exported in the environment. For the
+action itself, if you need to get information on users, a traditional `GITHUB_TOKEN` in the action
+is not sufficient and you'll need to set a personal access token to `CCI_GITHUB_TOKEN`.
 In addition to these data files, eventually there will be contributor friendliness assessments
 and visualizations to go along with the data. Please [open an issue](https://github.com/vsoch/contributor-ci-llnl/issues)
 if you have a question or point of discussion. 
