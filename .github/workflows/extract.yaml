@@ -1,5 +1,7 @@
 name: Contributor CI Extraction
-on: [pull_request]
+on:
+  schedule:
+    - cron: 0 4 * * *
 
 jobs:
   extraction:
