@@ -19,7 +19,7 @@ jobs:
         results_dir: _cci
 
     - name: Check that results exist
-      run: tree data
+      run: tree _cci
 
     - name: Push Results
       run: |
