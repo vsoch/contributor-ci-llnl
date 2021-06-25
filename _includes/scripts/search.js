@@ -25,7 +25,7 @@ site_search_init = function() {
     { title: '{{ title }}', category: '{{ category }}'{{ tags }}{{ desc }}, url: '{{ site.baseurl }}{{ url }}' },
   {% endfor %}
   ];
-
+  console.log(search_content);
   {% comment %} urls are auto-followed, so no callback needed {% endcomment %}
   $('#site-search').search({
     type: 'category',
