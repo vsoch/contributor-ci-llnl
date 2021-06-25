@@ -1,9 +1,9 @@
 ---
-repository: GMLC-TDC/toml11
-title: GMLC-TDC/toml11
+repository: LLNL/caliper
+title: LLNL/caliper
 ---
 
-# Contributor Friendliness Assessment for GMLC-TDC/toml11
+# Contributor Friendliness Assessment for LLNL/caliper
 
 The Contributor Friendliness Assessment (CFA) makes an effort to assess a software project
 for contributor friendliness.
