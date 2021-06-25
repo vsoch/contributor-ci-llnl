@@ -12,6 +12,8 @@ jobs:
     - name: Update Data
       uses: vsoch/contributor-ci@main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.CCI_GITHUB_TOKEN }}
+ 
       with: 
         update: true
+        update_random: 4
