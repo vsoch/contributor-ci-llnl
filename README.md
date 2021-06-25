@@ -17,3 +17,25 @@ is not sufficient and you'll need to set a personal access token to `CCI_GITHUB_
 In addition to these data files, eventually there will be contributor friendliness assessments
 and visualizations to go along with the data. Please [open an issue](https://github.com/vsoch/contributor-ci-llnl/issues)
 if you have a question or point of discussion. 
+
+## Usage
+
+You can update the data with:
+
+```bash
+$ pip install contributor-ci
+$ cci ui update
+```
+
+or generate your own site as follows:
+
+```bash
+$ pip install contributor-ci
+$ mkdir -p my-cci
+$ cd my-cci
+
+# Any of the following work!
+$ cci init user:vsoch
+$ cci init org:spack
+$ cci ui --cfa generate
+```
