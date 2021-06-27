@@ -13,11 +13,10 @@ jobs:
       uses: vsoch/contributor-ci@main
       env:
         GITHUB_TOKEN: ${{ secrets.CCI_GITHUB_TOKEN }}
- 
       with: 
         update: true
         update_random: 4
-               
+
     - name: Check that results exist
       run: tree cci
 

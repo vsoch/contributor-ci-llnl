@@ -39,3 +39,9 @@ $ cci init user:vsoch
 $ cci init org:spack
 $ cci ui --cfa generate
 ```
+
+To generate a new CFA:
+
+```bash
+$ cci -o cci cfa --terminal https://github.com/LLNL/b-mpi3 > _cfa/cfa-LLNL-b-mpi3.md
+```
