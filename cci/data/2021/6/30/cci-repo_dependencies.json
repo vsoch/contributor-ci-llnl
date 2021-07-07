@@ -9916,9 +9916,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-api-error",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-buffer",
@@ -9937,9 +9935,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-fsm",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-module-context",
@@ -9965,16 +9961,12 @@
                             {
                                 "packageName": "@webassemblyjs/ieee754",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/leb128",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/utf8",
@@ -10447,7 +10439,7 @@
                                 "packageName": "pypandoc",
                                 "packageManager": "PIP",
                                 "repository": {
-                                    "nameWithOwner": "NicklasTegner/pypandoc"
+                                    "nameWithOwner": "bebraw/pypandoc"
                                 }
                             },
                             {
@@ -11076,9 +11068,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-api-error",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-buffer",
@@ -11097,9 +11087,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-fsm",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-module-context",
@@ -11125,16 +11113,12 @@
                             {
                                 "packageName": "@webassemblyjs/ieee754",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/leb128",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/utf8",
@@ -21126,19 +21110,6 @@
             "nodes": []
         }
     },
-    "LLNL/hypre_matmat_paper": {
-        "languages": {
-            "nodes": [
-                {
-                    "name": "TeX",
-                    "color": "#3D6117"
-                }
-            ]
-        },
-        "dependencyGraphManifests": {
-            "nodes": []
-        }
-    },
     "LLNL/ibtopo": {
         "languages": {
             "nodes": [
@@ -27411,8 +27382,8 @@
         "languages": {
             "nodes": [
                 {
-                    "name": "C++",
-                    "color": "#f34b7d"
+                    "name": "C",
+                    "color": "#555555"
                 }
             ]
         },
@@ -28642,12 +28613,7 @@
     },
     "flux-framework/fripp": {
         "languages": {
-            "nodes": [
-                {
-                    "name": "C",
-                    "color": "#555555"
-                }
-            ]
+            "nodes": []
         },
         "dependencyGraphManifests": {
             "nodes": []
@@ -28820,13 +28786,6 @@
                                 "repository": {
                                     "nameWithOwner": "yaml/pyyaml"
                                 }
-                            },
-                            {
-                                "packageName": "textx",
-                                "packageManager": "PIP",
-                                "repository": {
-                                    "nameWithOwner": "goto40/textX-gui-experiment"
-                                }
                             }
                         ]
                     }
@@ -28867,13 +28826,6 @@
                                 "packageManager": "PIP",
                                 "repository": {
                                     "nameWithOwner": "yaml/pyyaml"
-                                }
-                            },
-                            {
-                                "packageName": "textx",
-                                "packageManager": "PIP",
-                                "repository": {
-                                    "nameWithOwner": "goto40/textX-gui-experiment"
                                 }
                             }
                         ]

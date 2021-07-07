@@ -9916,9 +9916,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-api-error",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-buffer",
@@ -9937,9 +9935,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-fsm",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-module-context",
@@ -9965,16 +9961,12 @@
                             {
                                 "packageName": "@webassemblyjs/ieee754",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/leb128",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/utf8",
@@ -11076,9 +11068,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-api-error",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-buffer",
@@ -11097,9 +11087,7 @@
                             {
                                 "packageName": "@webassemblyjs/helper-fsm",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/helper-module-context",
@@ -11125,16 +11113,12 @@
                             {
                                 "packageName": "@webassemblyjs/ieee754",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/leb128",
                                 "packageManager": "NPM",
-                                "repository": {
-                                    "nameWithOwner": "xtuc/webassemblyjs"
-                                }
+                                "repository": null
                             },
                             {
                                 "packageName": "@webassemblyjs/utf8",

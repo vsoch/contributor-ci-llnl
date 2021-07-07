@@ -79,6 +79,14 @@
             ]
         }
     },
+    "c64cryptoboy/ChiptuneSAK": {
+        "nameWithOwner": "c64cryptoboy/ChiptuneSAK",
+        "labContributors": {
+            "nodes": [
+                "IanLee1521"
+            ]
+        }
+    },
     "CybercentreCanada/assemblyline_client": {
         "nameWithOwner": "CybercentreCanada/assemblyline_client",
         "labContributors": {
@@ -655,14 +663,6 @@
             ]
         }
     },
-    "FFTW/fftw3": {
-        "nameWithOwner": "FFTW/fftw3",
-        "labContributors": {
-            "nodes": [
-                "correaa"
-            ]
-        }
-    },
     "QMCPACK/qmcpack": {
         "nameWithOwner": "QMCPACK/qmcpack",
         "labContributors": {
@@ -740,6 +740,14 @@
         "labContributors": {
             "nodes": [
                 "dstrozzi"
+            ]
+        }
+    },
+    "bitnami/bitnami-docker-phabricator": {
+        "nameWithOwner": "bitnami/bitnami-docker-phabricator",
+        "labContributors": {
+            "nodes": [
+                "escobarj"
             ]
         }
     },
@@ -1003,7 +1011,7 @@
         "nameWithOwner": "ROCm-Developer-Tools/HIP",
         "labContributors": {
             "nodes": [
-                "joshessman-llnl"
+                "trws"
             ]
         }
     },
@@ -1953,6 +1961,14 @@
     },
     "nselliott/conduit": {
         "nameWithOwner": "nselliott/conduit",
+        "labContributors": {
+            "nodes": [
+                "xjrc"
+            ]
+        }
+    },
+    "bmhan12/conduit": {
+        "nameWithOwner": "bmhan12/conduit",
         "labContributors": {
             "nodes": [
                 "xjrc"

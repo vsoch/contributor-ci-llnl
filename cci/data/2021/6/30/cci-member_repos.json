@@ -79,6 +79,14 @@
             ]
         }
     },
+    "c64cryptoboy/ChiptuneSAK": {
+        "nameWithOwner": "c64cryptoboy/ChiptuneSAK",
+        "labContributors": {
+            "nodes": [
+                "IanLee1521"
+            ]
+        }
+    },
     "CybercentreCanada/assemblyline_client": {
         "nameWithOwner": "CybercentreCanada/assemblyline_client",
         "labContributors": {
@@ -655,14 +663,6 @@
             ]
         }
     },
-    "FFTW/fftw3": {
-        "nameWithOwner": "FFTW/fftw3",
-        "labContributors": {
-            "nodes": [
-                "correaa"
-            ]
-        }
-    },
     "QMCPACK/qmcpack": {
         "nameWithOwner": "QMCPACK/qmcpack",
         "labContributors": {
@@ -743,6 +743,14 @@
             ]
         }
     },
+    "bitnami/bitnami-docker-phabricator": {
+        "nameWithOwner": "bitnami/bitnami-docker-phabricator",
+        "labContributors": {
+            "nodes": [
+                "escobarj"
+            ]
+        }
+    },
     "usnistgov/macos_security": {
         "nameWithOwner": "usnistgov/macos_security",
         "labContributors": {
@@ -807,14 +815,6 @@
             ]
         }
     },
-    "yjwen/org-reveal": {
-        "nameWithOwner": "yjwen/org-reveal",
-        "labContributors": {
-            "nodes": [
-                "gonsie"
-            ]
-        }
-    },
     "ROSS-org/ROSS": {
         "nameWithOwner": "ROSS-org/ROSS",
         "labContributors": {
@@ -833,6 +833,14 @@
     },
     "forem/forem": {
         "nameWithOwner": "forem/forem",
+        "labContributors": {
+            "nodes": [
+                "gonsie"
+            ]
+        }
+    },
+    "ROSS-org/ross-org.github.io": {
+        "nameWithOwner": "ROSS-org/ross-org.github.io",
         "labContributors": {
             "nodes": [
                 "gonsie"
@@ -1003,7 +1011,7 @@
         "nameWithOwner": "ROCm-Developer-Tools/HIP",
         "labContributors": {
             "nodes": [
-                "joshessman-llnl"
+                "trws"
             ]
         }
     },
@@ -1599,14 +1607,6 @@
             ]
         }
     },
-    "desul/desul": {
-        "nameWithOwner": "desul/desul",
-        "labContributors": {
-            "nodes": [
-                "trws"
-            ]
-        }
-    },
     "brettcannon/gidgethub": {
         "nameWithOwner": "brettcannon/gidgethub",
         "labContributors": {
@@ -1855,6 +1855,14 @@
             ]
         }
     },
+    "desul/desul": {
+        "nameWithOwner": "desul/desul",
+        "labContributors": {
+            "nodes": [
+                "trws"
+            ]
+        }
+    },
     "SOLLVE/sollve.github.io": {
         "nameWithOwner": "SOLLVE/sollve.github.io",
         "labContributors": {
@@ -1953,6 +1961,14 @@
     },
     "nselliott/conduit": {
         "nameWithOwner": "nselliott/conduit",
+        "labContributors": {
+            "nodes": [
+                "xjrc"
+            ]
+        }
+    },
+    "bmhan12/conduit": {
+        "nameWithOwner": "bmhan12/conduit",
         "labContributors": {
             "nodes": [
                 "xjrc"

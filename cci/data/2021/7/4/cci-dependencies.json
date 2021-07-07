@@ -10187,8 +10187,8 @@
         "languages": {
             "nodes": [
                 {
-                    "name": "HTML",
-                    "color": "#e34c26"
+                    "name": "SCSS",
+                    "color": "#c6538c"
                 }
             ]
         },
