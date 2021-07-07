@@ -16,8 +16,8 @@ for contributor friendliness.
 
 ## CFA-popularity
 
- - [x] Number of stars
- - [x] Number of forks
+ - [x] Number of stars at least 50
+ - [x] Number of forks at least 50
 
 ## CFA-description
 
