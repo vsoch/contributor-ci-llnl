@@ -27832,16 +27832,6 @@
             ]
         }
     },
-    "Smattr": {
-        "login": "Smattr",
-        "name": "Matthew Fernandez",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/203893?u=008b1b6822634dff07891735dac8834c23d0657b&v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "spack/spack"
-            ]
-        }
-    },
     "brettviren": {
         "login": "brettviren",
         "name": "Brett Viren",

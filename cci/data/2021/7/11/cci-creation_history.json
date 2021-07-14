@@ -3697,11 +3697,6 @@
     "GMLC-TDC/HELICS-PMU": {
         "createdAt": "2021-07-10T12:19:44Z",
         "initBeforeGitHubRepo": false,
-        "firstCommitAt": "2021-07-13T14:57:29Z"
-    },
-    "spack/stars-over-time": {
-        "createdAt": "2017-06-15T12:44:48Z",
-        "initBeforeGitHubRepo": true,
-        "firstCommitAt": "2016-08-27T22:29:31Z"
+        "firstCommitAt": null
     }
 }

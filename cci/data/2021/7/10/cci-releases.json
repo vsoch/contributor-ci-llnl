@@ -2996,11 +2996,6 @@
             "nodes": []
         }
     },
-    "GMLC-TDC/HELICS-PMU": {
-        "releases": {
-            "nodes": []
-        }
-    },
     "GMLC-TDC/HELICS-Tutorial": {
         "releases": {
             "nodes": [
@@ -11485,11 +11480,6 @@
         }
     },
     "spack/spack.io": {
-        "releases": {
-            "nodes": []
-        }
-    },
-    "spack/stars-over-time": {
         "releases": {
             "nodes": []
         }
