@@ -21,23 +21,23 @@ for contributor friendliness.
 
 ## CFA-description
 
- - [ ] GitHub repository description (modified with "edit" button) is filled in.
- - [ ] The description is also provided at the top of the README.md
- - [ ] Clearly states similar projects, competitors, prior art, etc.
+ - [x] GitHub repository description (modified with "edit" button) is filled in.
+ - [x] The description is also provided at the top of the README.md
+ - [x] Clearly states similar projects, competitors, prior art, etc.
 
 ## CFA-need
 
- - [ ] Use cases are clearly stated in the README.md
- - [ ] The project does not use domain-specific jargon, but if it does, it is clearly explained or offers references.
+ - [x] Use cases are clearly stated in the README.md
+ - [x] The project does not use domain-specific jargon, but if it does, it is clearly explained or offers references.
 
 ## CFA-license
 
  - [x] The GitHub repository has a clear license
- - [ ] The license is an OSI-approved license
+ - [x] The license is an OSI-approved license
 
 ## CFA-build
 
- - [ ] The documentation or README.md states how to build or install the software.
+ - [x] The documentation or README.md states how to build or install the software.
  - [ ] The project uses an established build framework or strategy
  - [ ] Requirements or dependencies are clearly stated.
  - [ ] The software can quickly output a version.
@@ -67,15 +67,15 @@ for contributor friendliness.
 
 ## CFA-developer
 
- - [ ] The project has a CHANGELOG and/or provides changes in release notes.
+ - [x] The project has a CHANGELOG and/or provides changes in release notes.
  - [ ] The project provides a pull request template to guide the developer through steps.
- - [ ] A container is provided for quick usage/interaction.
+ - [x] A container is provided for quick usage/interaction.
 
 ## CFA-quality
 
- - [ ] Naming of variables, classes, and functions is easy to understand.
+ - [x] Naming of variables, classes, and functions is easy to understand.
  - [ ] The code is robustly commented.
- - [ ] Files and directories are organized meaningfully.
+ - [x] Files and directories are organized meaningfully.
 
 ## CFA-tests
 
