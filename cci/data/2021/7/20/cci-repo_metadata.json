@@ -5387,12 +5387,6 @@
             "hpc"
         ]
     },
-    "visit-dav/visit-users-org": {
-        "name": "visit-dav/visit-users-org",
-        "description": "Temporary place to host old visitusers.org content",
-        "website": "https://visit-dav.github.io/visit-users-org/",
-        "topics": null
-    },
     "Alpine-DAV/ascent": {
         "name": "Alpine-DAV/ascent",
         "description": "A flyweight in situ visualization and analysis runtime for multi-physics HPC simulations",

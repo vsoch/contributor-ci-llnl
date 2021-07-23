@@ -5296,7 +5296,6 @@
             "nodes": [
                 "ESGF/esgf.github.io",
                 "LLNL/.github",
-                "LLNL/2021_DVRFS_microbiome",
                 "LLNL/2DHEVF",
                 "LLNL/ADAPT",
                 "LLNL/AMG",
@@ -6928,6 +6927,18 @@
             ]
         }
     },
+    "jeffdaily": {
+        "login": "jeffdaily",
+        "name": "Jeff Daily",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/904248?u=fa3a70f2bb71e68d926ca1d1121825a060f9d5f8&v=4",
+        "contributedLabRepositories": {
+            "nodes": [
+                "GMLC-TDC/HELICS",
+                "GMLC-TDC/HELICS-Use-Cases",
+                "GMLC-TDC/helics-ns3"
+            ]
+        }
+    },
     "allisonmcampbell": {
         "login": "allisonmcampbell",
         "name": "Allison Campbell",
@@ -7330,16 +7341,6 @@
             ]
         }
     },
-    "barr365": {
-        "login": "barr365",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/52010652?v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "GMLC-TDC/HELICS"
-            ]
-        }
-    },
     "corinnegroth": {
         "login": "corinnegroth",
         "name": null,
@@ -7401,17 +7402,6 @@
         "contributedLabRepositories": {
             "nodes": [
                 "GMLC-TDC/HELICS-Use-Cases"
-            ]
-        }
-    },
-    "jeffdaily": {
-        "login": "jeffdaily",
-        "name": "Jeff Daily",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/904248?u=fa3a70f2bb71e68d926ca1d1121825a060f9d5f8&v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "GMLC-TDC/HELICS-Use-Cases",
-                "GMLC-TDC/helics-ns3"
             ]
         }
     },
@@ -7512,7 +7502,6 @@
         "contributedLabRepositories": {
             "nodes": [
                 "LLNL/.github",
-                "LLNL/2021_DVRFS_microbiome",
                 "LLNL/2DHEVF",
                 "LLNL/ADAPT",
                 "LLNL/AMG",
@@ -7889,7 +7878,6 @@
         "contributedLabRepositories": {
             "nodes": [
                 "LLNL/.github",
-                "LLNL/2021_DVRFS_microbiome",
                 "LLNL/2DHEVF",
                 "LLNL/ADAPT",
                 "LLNL/AMG",
@@ -8305,7 +8293,6 @@
         "contributedLabRepositories": {
             "nodes": [
                 "LLNL/.github",
-                "LLNL/2021_DVRFS_microbiome",
                 "LLNL/2DHEVF",
                 "LLNL/ADAPT",
                 "LLNL/AMG",
@@ -8705,16 +8692,6 @@
                 "spack/spack-user-survey",
                 "spack/spack.io",
                 "spack/stars-over-time"
-            ]
-        }
-    },
-    "nancy-merino": {
-        "login": "nancy-merino",
-        "name": "Nancy Merino",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/66638231?u=86690122009ebb0491d16e4531e98c4d984b78df&v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "LLNL/2021_DVRFS_microbiome"
             ]
         }
     },
@@ -9497,16 +9474,6 @@
         "login": "sudo-Eric",
         "name": "Eric",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55769628?v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "LLNL/Curvallis"
-            ]
-        }
-    },
-    "choiboii": {
-        "login": "choiboii",
-        "name": "Andrew Choi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83613067?v=4",
         "contributedLabRepositories": {
             "nodes": [
                 "LLNL/Curvallis"
@@ -10485,16 +10452,6 @@
         "contributedLabRepositories": {
             "nodes": [
                 "LLNL/MacPatch"
-            ]
-        }
-    },
-    "ctlee": {
-        "login": "ctlee",
-        "name": "Christopher Lee",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/6172509?u=4b294f9d983f7d3d0259bb274d8677d1a6e0aae5&v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "LLNL/MemSurfer"
             ]
         }
     },
@@ -12027,6 +11984,7 @@
                 "visit-dav/live-customer-response",
                 "visit-dav/migration",
                 "visit-dav/spack",
+                "visit-dav/temporary-play-with-discussions",
                 "visit-dav/third-party",
                 "visit-dav/visit",
                 "visit-dav/visit-deps",
@@ -24814,7 +24772,7 @@
     "cdluminate": {
         "login": "cdluminate",
         "name": "M. Zhou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/5723047?u=f329fa7bb8aef8b9aa1a1589ecb8843baec1e4b9&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5723047?u=814d6de5a844811f98506b4c381a844eaae26344&v=4",
         "contributedLabRepositories": {
             "nodes": [
                 "openzfs/zfs"
@@ -27619,13 +27577,12 @@
     "spackbot": {
         "login": "spackbot",
         "name": "spackbot",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57643519?u=f309db55e701e7aa3b4346e31ed3897c17dcba05&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57643519?u=8cc17a9e2aee761488e4d8a766f45feca6593eda&v=4",
         "contributedLabRepositories": {
             "nodes": [
                 "spack/sbang",
                 "spack/spack",
                 "spack/spack-bot",
-                "spack/spack-tutorial",
                 "spack/spack-tutorial-container"
             ]
         }
@@ -28355,16 +28312,6 @@
         "login": "pmccormick",
         "name": "Pat McCormick",
         "avatarUrl": "https://avatars.githubusercontent.com/u/651611?v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "spack/spack"
-            ]
-        }
-    },
-    "lizziel": {
-        "login": "lizziel",
-        "name": "Lizzie Lundgren",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/651947?u=5d5f707907f42a251ffddf2841dd5c5a2cf1e6af&v=4",
         "contributedLabRepositories": {
             "nodes": [
                 "spack/spack"
@@ -31363,16 +31310,6 @@
             ]
         }
     },
-    "mscroggs": {
-        "login": "mscroggs",
-        "name": "Matthew Scroggs",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/9850599?v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "spack/spack"
-            ]
-        }
-    },
     "diaena": {
         "login": "diaena",
         "name": "Diana Bite",
@@ -31522,16 +31459,6 @@
             "nodes": [
                 "spack/spack",
                 "spack/spack-tutorial"
-            ]
-        }
-    },
-    "rj-jesus": {
-        "login": "rj-jesus",
-        "name": "Ricardo Jesus",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/11319180?u=f6512ac9a60e74e70187a8757de3a5ab2eb587f7&v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "spack/spack"
             ]
         }
     },
@@ -35911,6 +35838,7 @@
                 "visit-dav/live-customer-response",
                 "visit-dav/migration",
                 "visit-dav/spack",
+                "visit-dav/temporary-play-with-discussions",
                 "visit-dav/third-party",
                 "visit-dav/visit",
                 "visit-dav/visit-deps",

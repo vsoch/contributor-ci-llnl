@@ -4836,22 +4836,6 @@
         "website": null,
         "topics": null
     },
-    "LLNL/2021_DVRFS_microbiome": {
-        "name": "LLNL/2021_DVRFS_microbiome",
-        "description": "Scripts for a manuscript titled \"Subsurface Planktonic Microbial Communities Reflect Regional-Scale Groundwater Hydraulic Connectivity\" (submitted)",
-        "website": "",
-        "topics": [
-            "microbiome",
-            "groundwater",
-            "subsurface",
-            "groundwater-flow",
-            "microbial-community-assembly",
-            "microbial-ecology",
-            "regional-scale",
-            "hydraulic-connectivity",
-            "microbial-communities"
-        ]
-    },
     "mfem/mfem": {
         "name": "mfem/mfem",
         "description": "Lightweight, general, scalable C++ library for finite element methods",
@@ -5387,10 +5371,10 @@
             "hpc"
         ]
     },
-    "visit-dav/visit-users-org": {
-        "name": "visit-dav/visit-users-org",
-        "description": "Temporary place to host old visitusers.org content",
-        "website": "https://visit-dav.github.io/visit-users-org/",
+    "visit-dav/temporary-play-with-discussions": {
+        "name": "visit-dav/temporary-play-with-discussions",
+        "description": "Temporary repo to play with discussions",
+        "website": "",
         "topics": null
     },
     "Alpine-DAV/ascent": {
