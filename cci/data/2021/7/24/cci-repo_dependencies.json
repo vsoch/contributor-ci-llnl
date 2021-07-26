@@ -1710,7 +1710,7 @@
                                 "packageName": "eslint-plugin-import",
                                 "packageManager": "NPM",
                                 "repository": {
-                                    "nameWithOwner": "import-js/eslint-plugin-import"
+                                    "nameWithOwner": "benmosher/eslint-plugin-import"
                                 }
                             },
                             {
@@ -5888,7 +5888,7 @@
                                 "packageName": "eslint-plugin-import",
                                 "packageManager": "NPM",
                                 "repository": {
-                                    "nameWithOwner": "import-js/eslint-plugin-import"
+                                    "nameWithOwner": "benmosher/eslint-plugin-import"
                                 }
                             },
                             {
@@ -7008,7 +7008,7 @@
                                 "packageName": "eslint-import-resolver-webpack",
                                 "packageManager": "NPM",
                                 "repository": {
-                                    "nameWithOwner": "import-js/eslint-plugin-import"
+                                    "nameWithOwner": "benmosher/eslint-plugin-import"
                                 }
                             },
                             {
@@ -8831,6 +8831,68 @@
         },
         "dependencyGraphManifests": {
             "nodes": []
+        }
+    },
+    "ESGF/esgf-keycloak-user-migration": {
+        "languages": {
+            "nodes": [
+                {
+                    "name": "Python",
+                    "color": "#3572A5"
+                }
+            ]
+        },
+        "dependencyGraphManifests": {
+            "nodes": [
+                {
+                    "dependencies": {
+                        "nodes": [
+                            {
+                                "packageName": "click",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "pallets/click"
+                                }
+                            },
+                            {
+                                "packageName": "click-config-file",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "phha/click_config_file"
+                                }
+                            },
+                            {
+                                "packageName": "pg8000",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "tlocke/pg8000"
+                                }
+                            },
+                            {
+                                "packageName": "requests",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "psf/requests"
+                                }
+                            },
+                            {
+                                "packageName": "sqlalchemy",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "sqlalchemy/sqlalchemy"
+                                }
+                            },
+                            {
+                                "packageName": "tqdm",
+                                "packageManager": "PIP",
+                                "repository": {
+                                    "nameWithOwner": "tqdm/tqdm"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     },
     "ESGF/esgf-map": {
@@ -31509,19 +31571,6 @@
                     }
                 }
             ]
-        }
-    },
-    "spack/spack-prereq": {
-        "languages": {
-            "nodes": [
-                {
-                    "name": "Python",
-                    "color": "#3572A5"
-                }
-            ]
-        },
-        "dependencyGraphManifests": {
-            "nodes": []
         }
     },
     "spack/spack-repo-template": {
