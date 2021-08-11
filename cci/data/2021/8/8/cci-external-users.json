@@ -24730,16 +24730,6 @@
             ]
         }
     },
-    "rachelsyamamoto": {
-        "login": "rachelsyamamoto",
-        "name": null,
-        "avatarUrl": "https://avatars.githubusercontent.com/u/86217078?v=4",
-        "contributedLabRepositories": {
-            "nodes": [
-                "LLNL/HPCCEA"
-            ]
-        }
-    },
     "racyamamoto": {
         "login": "racyamamoto",
         "name": "yamamoto7",
@@ -26321,8 +26311,7 @@
                 "LLNL/ac-mpibind",
                 "LLNL/mpibind",
                 "hpc/OpenLorenz",
-                "hpc/Spindle",
-                "spack/spack"
+                "hpc/Spindle"
             ]
         }
     },
