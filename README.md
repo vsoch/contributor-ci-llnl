@@ -2,8 +2,11 @@
 
 ![https://raw.githubusercontent.com/vsoch/contributor-ci/main/docs/assets/img/contributor-ci.png](https://raw.githubusercontent.com/vsoch/contributor-ci/main/docs/assets/img/contributor-ci.png)
 
-This repository will contain [Contributor CI](https://github.com/vsoch/contributor-ci) results for LLNL, meaning data extracted from
+This repository contains [Contributor CI](https://github.com/vsoch/contributor-ci) results for LLNL, meaning data extracted from
 repos and members defined in  [contributor-ci.yaml](contributor-ci.yaml) that are generated and then pushed back to the repository.
+
+> **Note** that automated extractions were paused on 12/26/2021 by @vsoch as it's wasteful to run jobs that are producing results nobody is looking at. If we want to continue, we can un-pause in the future. 
+
 The extractions are done with a GitHub workflow, [.github/workflows/extract.yaml](.github/workflows/extract.yaml)
 but you can run the same command locally as follows:
 
