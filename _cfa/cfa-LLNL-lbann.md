@@ -22,7 +22,7 @@ for contributor friendliness.
 ## CFA-description
 
  - [x] GitHub repository description (modified with "edit" button) is filled in.
- - [ x The description is also provided at the top of the README.md
+ - [x] The description is also provided at the top of the README.md
  - [ ] Clearly states similar projects, competitors, prior art, etc.
 
 ## CFA-need
