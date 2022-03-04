@@ -33,7 +33,7 @@ for contributor friendliness.
 ## CFA-license
 
  - [x] The GitHub repository has a clear license
- - [ ] The license is an OSI-approved license
+ - [x] The license is an OSI-approved license
 
 ## CFA-build
 
