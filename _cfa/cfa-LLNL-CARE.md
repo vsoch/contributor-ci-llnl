@@ -21,25 +21,25 @@ for contributor friendliness.
 
 ## CFA-description
 
- - [ ] GitHub repository description (modified with "edit" button) is filled in.
- - [ ] The description is also provided at the top of the README.md
+ - [x] GitHub repository description (modified with "edit" button) is filled in.
+ - [x] The description is also provided at the top of the README.md
  - [ ] Clearly states similar projects, competitors, prior art, etc.
 
 ## CFA-need
 
- - [ ] Use cases are clearly stated in the README.md
+ - [x] Use cases are clearly stated in the README.md
  - [ ] The project does not use domain-specific jargon, but if it does, it is clearly explained or offers references.
 
 ## CFA-license
 
  - [x] The GitHub repository has a clear license
- - [ ] The license is an OSI-approved license
+ - [x] The license is an OSI-approved license
 
 ## CFA-build
 
- - [ ] The documentation or README.md states how to build or install the software.
- - [ ] The project uses an established build framework or strategy
- - [ ] Requirements or dependencies are clearly stated.
+ - [x] The documentation or README.md states how to build or install the software.
+ - [x] The project uses an established build framework or strategy
+ - [x] Requirements or dependencies are clearly stated.
  - [ ] The software can quickly output a version.
 
 ## CFA-examples
@@ -56,7 +56,7 @@ for contributor friendliness.
  - [ ] The documentation has a process for contributing, or a contributor guide.
  - [ ] The documentation renders in a web interface for a more user-friendly exploration.
  - [ ] Documentation renders from a readable, plain-text format
- - [ ] Documentation is served in version control alongside the source code.
+ - [x] Documentation is served in version control alongside the source code.
  - [ ] Different versions of documentation for various releases are available.
 
 ## CFA-support
@@ -73,16 +73,16 @@ for contributor friendliness.
 
 ## CFA-quality
 
- - [ ] Naming of variables, classes, and functions is easy to understand.
+ - [x] Naming of variables, classes, and functions is easy to understand.
  - [ ] The code is robustly commented.
- - [ ] Files and directories are organized meaningfully.
+ - [x] Files and directories are organized meaningfully.
 
 ## CFA-tests
 
- - [ ] The repository has tests.
+ - [x] The repository has tests.
  - [ ] The documentation states how to run the tests.
- - [ ] The tests are run with continuous integration.
- - [ ] Tests verify successful build and installation.
+ - [x] The tests are run with continuous integration.
+ - [x] Tests verify successful build and installation.
 
 ## CFA-coverage
 
