@@ -1,6 +1,6 @@
 ---
-repository: hatchet/hatchet
-title: hatchet/hatchet
+repository: llnl/hatchet
+title: llnl/hatchet
 ---
 
 # Contributor Friendliness Assessment for hatchet/hatchet
