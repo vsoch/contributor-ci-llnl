@@ -40,11 +40,11 @@ for contributor friendliness.
  - [x] The documentation or README.md states how to build or install the software.
  - [x] The project uses an established build framework or strategy
  - [x] Requirements or dependencies are clearly stated.
- - [ ] The software can quickly output a version.
+ - [x] The software can quickly output a version (`make info`)
 
 ## CFA-examples
 
- - [ ] The README.md has one or more examples of usage.
+ - [x] The README.md has one or more examples of usage.
  - [x] The documentation has an expanded set of examples (e.g., tutorials)
 
 ## CFA-documentation
@@ -57,11 +57,11 @@ for contributor friendliness.
  - [x] The documentation renders in a web interface for a more user-friendly exploration.
  - [x] Documentation renders from a readable, plain-text format
  - [x] Documentation is served in version control alongside the source code.
- - [ ] Different versions of documentation for various releases are available.
+ - [x] Different versions of documentation for various releases are available.
 
 ## CFA-support
 
- - [ ] A support contact or email is provided.
+ - [x] A support contact or email is provided.
  - [x] The user is not required to join a mailing list or slack (but they may be options)
  - [ ] The project has issue templates to help the user submitting a new issue.
 
@@ -86,13 +86,13 @@ for contributor friendliness.
 
 ## CFA-coverage
 
- - [ ] The repository reports code coverage.
+ - [x] The repository reports code coverage.
  - [ ] The coverage is >= 90 %
 
 ## CFA-format
 
- - [ ] The documentation states how to lint and check formatting.
- - [ ] Tests checks for formatting.
+ - [x] The documentation states how to lint and check formatting.
+ - [x] Tests checks for formatting.
 
 ## CFA-outreach
 
